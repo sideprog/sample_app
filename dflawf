@@ -1,0 +1,65 @@
+commit 92260cd4e96405fa3e00665d3aae32113956eb75
+Author: Sideprog <sideprog1@gmail.com>
+Date:   Mon Dec 24 17:16:23 2012 +0000
+
+    Add user microposts
+
+commit 54f9f608bdcda771b03c4896c17a7c19f3048e58
+Author: Sideprog <sideprog1@gmail.com>
+Date:   Tue Dec 18 19:37:28 2012 +0000
+
+    Finish user edit, update, index, and destroy actions
+
+commit c0c88f38e0642b015ba8c443e4b5cc760d40c4e1
+Author: Sideprog <sideprog1@gmail.com>
+Date:   Sat Dec 8 16:18:03 2012 +0000
+
+    Finish sign in
+
+commit afb957b5938283a691323bd6ea717b1d17793b3a
+Author: Sideprog <sideprog1@gmail.com>
+Date:   Sun Nov 25 10:26:07 2012 +0000
+
+    Add SSL in production
+
+commit 4230a628f5fa5eb212f8b25d0a994f1631b4140b
+Author: Sideprog <sideprog1@gmail.com>
+Date:   Sun Nov 25 10:24:40 2012 +0000
+
+    Finish user signup
+
+commit 299f6c6996aaaeb8a60190a174c308aeecaaca28
+Author: Sideprog <sideprog1@gmail.com>
+Date:   Sat Nov 24 12:32:10 2012 +0000
+
+    Make a basic User model (including secure passwords)
+
+commit 0642014064e24af2dc4f13834143bd21942fe117
+Author: Sideprog <sideprog1@gmail.com>
+Date:   Sun Nov 18 15:42:21 2012 +0000
+
+    Finish layout and routes
+
+commit 3d2e43e71597c80d0b6d03038c568a90e22077e5
+Author: Sideprog <sideprog1@gmail.com>
+Date:   Sat Nov 17 18:06:21 2012 +0000
+
+    Finish static pages
+
+commit ace2e0b2ecc04154f91587b5981749282ef463c9
+Author: Sideprog <sideprog1@gmail.com>
+Date:   Sat Nov 17 16:40:28 2012 +0000
+
+    Add a StaticPages controller
+
+commit 54b491f77b36c301466901feec4fdb5f545f17af
+Author: Sideprog <sideprog1@gmail.com>
+Date:   Sat Nov 17 16:05:03 2012 +0000
+
+    Improve the README
+
+commit 36bc8d3a59842927c730c3e4ab8cd7c55523d288
+Author: Sideprog <sideprog1@gmail.com>
+Date:   Sat Nov 17 16:04:02 2012 +0000
+
+    Initial commit
